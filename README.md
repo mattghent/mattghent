@@ -1,4 +1,4 @@
-![](Matt.jpg)
+![](Matt.png)
 
 <h1 align="center">Hi there - 👋, I'm Matt!</h1>
 <h3 align="center">A front-end web developer from Ontario Canada!</h3>
