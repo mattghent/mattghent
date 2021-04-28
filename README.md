@@ -1,4 +1,4 @@
-!Matt.png
+[banner]: https://raw.githubusercontent.com/mattghent/mattghent/main/banner.png
 
 ### Hi there 👋, I'm Matt Ghent!
 
