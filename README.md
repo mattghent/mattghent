@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/mattghent/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/mattghent/<OWNER>/<OWNER>/Matt.png "Header")]
 
 ### Hi there 👋, I'm Matt Ghent!
 
