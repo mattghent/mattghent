@@ -1,4 +1,4 @@
-![](main/Matt.png)
+![](Matt.png)
 
 ### Hi there 👋, I'm Matt Ghent!
 
