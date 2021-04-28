@@ -1,4 +1,4 @@
-![Matt Ghent](Matt.png "Header")
+!Matt.png
 
 ### Hi there 👋, I'm Matt Ghent!
 
