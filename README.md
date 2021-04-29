@@ -1,4 +1,5 @@
-![](Matt.png)
+![Matt](https://user-images.githubusercontent.com/78147301/116606754-2c66e600-a8ff-11eb-993e-a36f027d910c.jpg)
+
 
 <h1 align="center">Hi there - 👋, I'm Matt!</h1>
 <h3 align="center">A front-end web developer from Ontario Canada!</h3>
